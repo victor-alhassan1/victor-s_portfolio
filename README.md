@@ -3,9 +3,9 @@ A dynamic, interactive visualization seeking to provide insights on store sales,
 
 This is my first project on completion of the Data Analytics course with ALX Africa.
 ## Summary of the process
-1. Dataset was downloaded from Kaggle capturing the details of 5,001 transactions over a specified period.
-2. Data was cleaned and a 5-star model schema was created from the single table.
-3. I sought to answer questions and develop relevant KPIs based on
+1.  Dataset was downloaded from Kaggle capturing the details of 5,001 transactions over a specified period.
+2.  Data was cleaned and a 5-star model schema was created from the single table.
+3.  I sought to answer questions and develop relevant KPIs based on
 -	Market Basket Analysis
 -	Customer Segmentation
 -	Trend Forecasting
