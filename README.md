@@ -18,6 +18,6 @@ This is my first project on completion of the Data Analytics course with ALX Afr
 - Data Modelling – Relationships established among tables (store_sales, customer, season, product, payment method)
 - File format - .pbix for development and .png for dashboard preview.
 
-### Screenshots
-![alt text]
+### Screenshot of dashboard
+![alt text](https://github.com/victor-alhassan1/victor-s_portfolio/blob/main/Retail%20sales%20dashboard%20snapshot.png)
 
