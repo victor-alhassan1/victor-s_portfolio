@@ -11,6 +11,20 @@ This is my first project on completion of the Data Analytics course with ALX Afr
 -	Trend Forecasting
 -	Performance Benchmarking
 
+The questions include;
+1.	What is the total revenue generated from sales?
+2.	What is the total number of customers in the database?
+3.	What is the average transaction value?
+4.	What is the average discount offered?
+5.	What is the top product sold?
+6.	What is the average rating of products sold?
+7.	Which gender dominates the customer base?
+8.	What are the customers likely to purchase?
+9.	Which category of product is most purchased?
+10.	What age group has more buying pressure?
+11.	Which season sees the most sales?
+
+
 ### Tech Stack
 - Power BI Desktop – Main data visualization platform used for report creation.
 - Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
